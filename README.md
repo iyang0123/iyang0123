@@ -1,4 +1,4 @@
-- 👋 Hi, Am @iyang0123
+- 👋 Hi, Am Taniya
 - 👀 Am interested in programming
 - 🌱 Am currently learning java
 - 💞️ Am looking to collaborate on programming projects
