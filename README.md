@@ -1,6 +1,6 @@
 Hi 👋, Taniya here
 🚀 DSA Learner | Full Stack Developer | GenAI Enthusiast  
-💻 Solved 280+ DSA Problems on LeetCode  
+💻 Solved 300+ DSA Problems on LeetCode  
 ⚡ Building AI + Web Projects using Java, Spring Boot, MERN & Python  
 🌱 Learning System Design & Advanced Backend
 <!---
